@@ -1,4 +1,4 @@
-Doc.GUID=
+Doc.GUID=Q
 
 EffectiveDate.YMD=
 
